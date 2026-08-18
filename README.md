@@ -1,4 +1,4 @@
-# Movie Recommender
+# Movie Recommender Frontend
 
 A web-based movie recommendation frontend built with React and Vite. The application allows users to select movie preferences and retrieve matching movies from the deployed Spring Boot backend.
 
