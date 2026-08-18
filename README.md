@@ -526,3 +526,23 @@ The frontend communicates with the separately deployed backend through its confi
 Built as a full-stack web application with a separately deployed frontend, backend, and database.
 
 The frontend is maintained independently from the backend repository to keep the two application layers separately deployable and maintainable.
+
+---
+
+## Screenshots
+
+---
+
+<img width="1905" height="868" alt="Screenshot 2026-08-18 211251" src="https://github.com/user-attachments/assets/e7bedf23-0ab6-4687-a015-c0abe9d74072" />
+
+---
+
+<img width="1876" height="892" alt="Screenshot 2026-08-18 211702" src="https://github.com/user-attachments/assets/24230b0b-ab05-461a-9e0e-16cbb23a348a" />
+
+---
+
+<img width="1855" height="873" alt="Screenshot 2026-08-18 211741" src="https://github.com/user-attachments/assets/d63e6bac-a10b-458a-aa91-3b0a4fc5b058" />
+
+---
+
+<img width="1894" height="879" alt="Screenshot 2026-08-18 212053" src="https://github.com/user-attachments/assets/a4e517dd-6bf4-4de3-a447-5097be9f3e66" />
